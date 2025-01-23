@@ -1,0 +1,10 @@
+name = "bookworm-discord-bot"
+main = "src/index.js"
+compatibility_date = "2025-01-21"
+
+[build]
+command = ""
+
+[observability.logs]
+enabled = true
+
